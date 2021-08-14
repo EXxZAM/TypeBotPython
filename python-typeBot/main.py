@@ -2,8 +2,8 @@ from selenium import webdriver
 import os
 import time
 
-number = '09360559427'
-password = 'smo1383'
+number = 'Your Phone Number'
+password = 'Your Password'
 
 
 driver = webdriver.Chrome('chromedriver.exe')
